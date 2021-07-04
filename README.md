@@ -1,1 +1,1 @@
-# Projects
+Messaging.py is an AwS cloud project which if you run in the cloud9 console you will be able to send messages between 2 devices(in this case namely car1 and car2). You can also visit this website https://projectshtml.s3.ap-southeast-1.amazonaws.com/projects_2.html which is hosted by an AWS S3 bucket to view more of my cloud projects
